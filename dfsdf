@@ -1,0 +1,12 @@
+user.email=kholyavski@mail.ru
+user.name=sjfroxo
+init.defaultbranch=master
+pull.rebase=false
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/sjfroxo/git_test.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
